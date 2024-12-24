@@ -85,7 +85,7 @@ if selection == "Alerts":
                 border-radius: 15px;
                 padding: 20px;
                 margin: 10px;
-                height: 300px;
+                height: 350px;
                 text-align: left;
                 color: black;
                 font-weight: bold;
