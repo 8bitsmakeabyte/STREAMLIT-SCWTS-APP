@@ -1,0 +1,8 @@
+[theme]
+base="light"
+primaryColor="#26c9fc"
+backgroundColor = "#fafafa" 
+secondaryBackgroundColor="#8ad8ff"
+textColor = "#333333"  # Set text color to dark gray
+font = "sans serif"  # Use sans serif font for the app
+
